@@ -1,0 +1,16 @@
+body{
+  font-size: 14px;
+  font-family: "PT Sans Narrow", sans-serif;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+}
+h2.index-content-title, h2.title{
+  font-size: 30px;
+  line-height: 42px;
+}
+
+h3.content-title{
+  font-size: 24px;
+  line-height: 30px;
+}
